@@ -1,0 +1,10 @@
+01-09-2022 13:49:06 - ERROR - 7.5.3 - 40.9 MB/512 MB - admin > Missing block.php file in E:/xampp/htdocs/newbesa/wp-content/plugins/newsletter/emails/blocks (1) - 
+01-09-2022 13:49:06 - ERROR - 7.5.3 - 40.9 MB/512 MB - admin > Missing block.php file in E:/xampp/htdocs/newbesa/wp-content/plugins/newsletter/emails (1) - 
+01-09-2022 13:49:07 - ERROR - 7.5.3 - 35.3 MB/512 MB - admin > Missing block.php file in E:/xampp/htdocs/newbesa/wp-content/plugins/newsletter/emails/blocks (1) - 
+01-09-2022 13:49:07 - ERROR - 7.5.3 - 35.3 MB/512 MB - admin > Missing block.php file in E:/xampp/htdocs/newbesa/wp-content/plugins/newsletter/emails (1) - 
+01-09-2022 13:49:32 - ERROR - 7.5.3 - 40.2 MB/512 MB - admin > Missing block.php file in E:/xampp/htdocs/newbesa/wp-content/plugins/newsletter/emails/blocks (1) - 
+01-09-2022 13:49:32 - ERROR - 7.5.3 - 40.2 MB/512 MB - admin > Missing block.php file in E:/xampp/htdocs/newbesa/wp-content/plugins/newsletter/emails (1) - 
+01-09-2022 13:49:33 - ERROR - 7.5.3 - 39.4 MB/512 MB - admin > Missing block.php file in E:/xampp/htdocs/newbesa/wp-content/plugins/newsletter/emails/blocks (1) - 
+01-09-2022 13:49:33 - ERROR - 7.5.3 - 39.4 MB/512 MB - admin > Missing block.php file in E:/xampp/htdocs/newbesa/wp-content/plugins/newsletter/emails (1) - 
+01-09-2022 13:49:38 - ERROR - 7.5.3 - 39.9 MB/512 MB - admin > Missing block.php file in E:/xampp/htdocs/newbesa/wp-content/plugins/newsletter/emails/blocks (1) - 
+01-09-2022 13:49:38 - ERROR - 7.5.3 - 39.9 MB/512 MB - admin > Missing block.php file in E:/xampp/htdocs/newbesa/wp-content/plugins/newsletter/emails (1) - 
